@@ -1,0 +1,582 @@
+
+{
+    "name": "Sample",
+    "list": [
+        {
+            "idnft": "1",
+            "owner":"shmz",
+            "name": "Monkey",
+            "collection": "Action",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId": "16329643000000000",
+            "image": "/Images/nftImg/nft1.jpg",
+            "details": "This NFT for test in testnet Flow image from freePik.com",
+            "price": "2.3Flow",
+            "unit": "Flow",
+            "isFractional":true,
+            "isErc721":true,
+            "chain": "Flow",
+            "metadata":{
+                "description": "This NFT for test in testnet Flow\nimage from freePik.com",
+                "external_url": "https://www.freepik.com",
+                "image": "https://ipfs.io/ipfs/bafkreiceoqz7uoy5paddxe4rkz7tfpf5qg72ayndhmvp22jqq5z3eybbya",
+                "name": "Monkey",
+                "background_color": "Hex color witout #",
+                "youtube_url": "https://www.freepik.com",
+                "attributes": [
+                    {
+                        "trait_type": "Cute",
+                        "value": "face"
+                    },
+                    {
+                        "trait_type": "Blue",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "Red",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "eyes",
+                        "value": "2",
+                        "value2": "2"
+                    },
+                    {
+                        "trait_type": "Beauty",
+                        "value": "3",
+                        "value2": "5"
+                    }
+                ],
+                "sensitiveContent": false
+            }
+        },
+        {
+            "idnft": "2",
+            "owner":"shmz",
+            "name": "Monkey glass",
+            "collection": "art Collection",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId": "8221331000000000",
+            "image": "/Images/nftImg/nft2.jpg",
+            "details": "This NFT for test in testnet Flow image from freePik.com",
+            "price": "2.3Flow",
+            "unit": "Flow",
+            "isFractional":true,
+            "isErc721":true,
+            "chain": "Flow",
+            "metadata": {
+                "description": "This NFT for test in testnet Flow\nimage from freePik.com",
+                "external_url": "https://www.freepik.com",
+                "image": "https://ipfs.io/ipfs/bafkreiceoqz7uoy5paddxe4rkz7tfpf5qg72ayndhmvp22jqq5z3eybbya",
+                "name": "Monkey",
+                "background_color": "Hex color witout #",
+                "youtube_url": "https://www.freepik.com",
+                "attributes": [
+                    {
+                        "trait_type": "Cute",
+                        "value": "face"
+                    },
+                    {
+                        "trait_type": "Blue",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "Red",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "eyes",
+                        "value": "2",
+                        "value2": "2"
+                    },
+                    {
+                        "trait_type": "Beauty",
+                        "value": "3",
+                        "value2": "5"
+                    }
+                ],
+                "sensitiveContent": false
+            }
+        },
+        {
+            "idnft": "3",
+            "owner":"shmz",
+            "name": "Monkey smook",
+            "collection": "art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId": "16329866000000000",
+            "image": "/Images/nftImg/nft3.jpg",
+            "details": "This NFT for test in testnet Flow image from freePik.com",
+            "price": "2.3Flow",
+            "unit": "Flow",
+            "isFractional":true,
+            "isErc721":true,
+            "chain": "Flow",
+            "metadata":{
+                "description": "This NFT for test in testnet Flow\nimage from freePik.com",
+                "external_url": "https://www.freepik.com",
+                "image": "https://ipfs.io/ipfs/bafkreiceoqz7uoy5paddxe4rkz7tfpf5qg72ayndhmvp22jqq5z3eybbya",
+                "name": "Monkey",
+                "background_color": "Hex color witout #",
+                "youtube_url": "https://www.freepik.com",
+                "attributes": [
+                    {
+                        "trait_type": "Cute",
+                        "value": "face"
+                    },
+                    {
+                        "trait_type": "Blue",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "Red",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "eyes",
+                        "value": "2",
+                        "value2": "2"
+                    },
+                    {
+                        "trait_type": "Beauty",
+                        "value": "3",
+                        "value2": "5"
+                    }
+                ],
+                "sensitiveContent": false
+            }
+        },
+        {
+            "idnft": "4",
+            "owner":"shmz",
+            "name": "Monkey fittnes",
+            "collection": "art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId": "9129565000000000",
+            "image": "/Images/nftImg/nft4.jpg",
+            "details": "This NFT for test in testnet Flow image from freePik.com",
+            "price": "2.3Flow",
+            "unit": "Flow",
+            "isFractional":true,
+            "isErc721":true,
+            "chain": "Flow",
+            "metadata":{
+                "description": "This NFT for test in testnet Flow\nimage from freePik.com",
+                "external_url": "https://www.freepik.com",
+                "image": "https://ipfs.io/ipfs/bafkreiceoqz7uoy5paddxe4rkz7tfpf5qg72ayndhmvp22jqq5z3eybbya",
+                "name": "Monkey",
+                "background_color": "Hex color witout #",
+                "youtube_url": "https://www.freepik.com",
+                "attributes": [
+                    {
+                        "trait_type": "Cute",
+                        "value": "face"
+                    },
+                    {
+                        "trait_type": "Blue",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "Red",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "eyes",
+                        "value": "2",
+                        "value2": "2"
+                    },
+                    {
+                        "trait_type": "Beauty",
+                        "value": "3",
+                        "value2": "5"
+                    }
+                ],
+                "sensitiveContent": false
+            }
+        },
+        {
+            "idnft": "5",
+            "owner":"shmz",
+            "name": "cat sport",
+            "collection": "Action",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId": "3547122000000000",
+            "image": "/Images/nftImg/nft5.jpg",
+            "details": "This NFT for test in testnet Flow image from freePik.com",
+            "price": "2.3Flow",
+            "unit": "Flow",
+            "isFractional":true,
+            "isErc721":true,
+            "chain": "Flow",
+            "metadata": {
+                "description": "This NFT for test in testnet Flow\nimage from freePik.com",
+                "external_url": "https://www.freepik.com",
+                "image": "https://ipfs.io/ipfs/bafkreiceoqz7uoy5paddxe4rkz7tfpf5qg72ayndhmvp22jqq5z3eybbya",
+                "name": "Monkey",
+                "background_color": "Hex color witout #",
+                "youtube_url": "https://www.freepik.com",
+                "attributes": [
+                    {
+                        "trait_type": "Cute",
+                        "value": "face"
+                    },
+                    {
+                        "trait_type": "Blue",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "Red",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "eyes",
+                        "value": "2",
+                        "value2": "2"
+                    },
+                    {
+                        "trait_type": "Beauty",
+                        "value": "3",
+                        "value2": "5"
+                    }
+                ],
+                "sensitiveContent": false
+            }
+        },
+        {
+            "idnft": "6",
+            "owner":"shmz",
+            "name": "cat Chewing gum",
+            "collection": "art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId": "16252342000000000",
+            "image": "/Images/nftImg/nft6.jpg",
+            "details": "This NFT for test in testnet Flow image from freePik.com",
+            "price": "2.3Flow",
+            "unit": "Flow",
+            "isFractional":true,
+            "isErc721":true,
+            "chain": "Flow",
+            "metadata": {
+                "description": "This NFT for test in testnet Flow\nimage from freePik.com",
+                "external_url": "https://www.freepik.com",
+                "image": "https://ipfs.io/ipfs/bafkreiceoqz7uoy5paddxe4rkz7tfpf5qg72ayndhmvp22jqq5z3eybbya",
+                "name": "Monkey",
+                "background_color": "Hex color witout #",
+                "youtube_url": "https://www.freepik.com",
+                "attributes": [
+                    {
+                        "trait_type": "Cute",
+                        "value": "face"
+                    },
+                    {
+                        "trait_type": "Blue",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "Red",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "eyes",
+                        "value": "2",
+                        "value2": "2"
+                    },
+                    {
+                        "trait_type": "Beauty",
+                        "value": "3",
+                        "value2": "5"
+                    }
+                ],
+                "sensitiveContent": false
+            }
+        },
+        {
+            "idnft": "7",
+            "owner":"shmz",
+            "name": "cat moustache",
+            "collection": "art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId": "8221923000000000",
+            "image": "/Images/nftImg/nft7.jpg",
+            "details": "This NFT for test in testnet Flow image from freePik.com",
+            "price": "2.3Flow",
+            "unit": "Flow",
+            "isFractional":false,
+            "isErc721":true,
+            "chain": "Flow",
+            "metadata": {
+                "description": "This NFT for test in testnet Flow\nimage from freePik.com",
+                "external_url": "https://www.freepik.com",
+                "image": "https://ipfs.io/ipfs/bafkreiceoqz7uoy5paddxe4rkz7tfpf5qg72ayndhmvp22jqq5z3eybbya",
+                "name": "Monkey",
+                "background_color": "Hex color witout #",
+                "youtube_url": "https://www.freepik.com",
+                "attributes": [
+                    {
+                        "trait_type": "Cute",
+                        "value": "face"
+                    },
+                    {
+                        "trait_type": "Blue",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "Red",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "eyes",
+                        "value": "2",
+                        "value2": "2"
+                    },
+                    {
+                        "trait_type": "Beauty",
+                        "value": "3",
+                        "value2": "5"
+                    }
+                ],
+                "sensitiveContent": false
+            }
+        },
+        {
+            "idnft": "8",
+            "owner":"shmz",
+            "name": "cat Cigarettes",
+            "collection": "art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId": "9130077000000000",
+            "image": "/Images/nftImg/nft8.jpg",
+            "details": "This NFT for test in testnet Flow image from freePik.com",
+            "price": "2.3Flow",
+            "unit": "Flow",
+            "isFractional":false,
+            "isErc721":true,
+            "chain": "Flow",
+            "metadata": {
+                "description": "This NFT for test in testnet Flow\nimage from freePik.com",
+                "external_url": "https://www.freepik.com",
+                "image": "https://ipfs.io/ipfs/bafkreiceoqz7uoy5paddxe4rkz7tfpf5qg72ayndhmvp22jqq5z3eybbya",
+                "name": "Monkey",
+                "background_color": "Hex color witout #",
+                "youtube_url": "https://www.freepik.com",
+                "attributes": [
+                    {
+                        "trait_type": "Cute",
+                        "value": "face"
+                    },
+                    {
+                        "trait_type": "Blue",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "Red",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "eyes",
+                        "value": "2",
+                        "value2": "2"
+                    },
+                    {
+                        "trait_type": "Beauty",
+                        "value": "3",
+                        "value2": "5"
+                    }
+                ],
+                "sensitiveContent": false
+            }
+        },
+        {
+            "idnft": "9",
+            "owner":"shmz",
+            "name": "Painted tiger",
+            "collection": "Action",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId": "13030088000000000",
+            "image": "/Images/nftImg/nft9.jpg",
+            "details": "This NFT for test in testnet Flow image from freePik.com",
+            "price": "2.3Flow",
+            "unit": "Flow",
+            "isFractional":false,
+            "isErc721":true,
+            "chain": "Flow",
+            "metadata": {
+                "description": "This NFT for test in testnet Flow\nimage from freePik.com",
+                "external_url": "https://www.freepik.com",
+                "image": "https://ipfs.io/ipfs/bafkreiceoqz7uoy5paddxe4rkz7tfpf5qg72ayndhmvp22jqq5z3eybbya",
+                "name": "Monkey",
+                "background_color": "Hex color witout #",
+                "youtube_url": "https://www.freepik.com",
+                "attributes": [
+                    {
+                        "trait_type": "Cute",
+                        "value": "face"
+                    },
+                    {
+                        "trait_type": "Blue",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "Red",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "eyes",
+                        "value": "2",
+                        "value2": "2"
+                    },
+                    {
+                        "trait_type": "Beauty",
+                        "value": "3",
+                        "value2": "5"
+                    }
+                ],
+                "sensitiveContent": false
+            }
+        },
+        {
+            "idnft": "10",
+            "owner":"shmz",
+            "name": "Painted dog",
+            "collection": "art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId": "16069470000000000",
+            "image": "/Images/nftImg/nft10.jpg",
+            "details": "This NFT for test in testnet Flow image from freePik.com",
+            "price": "2.3Flow",
+            "unit": "Flow",
+            "isFractional":false,
+            "isErc721":true,
+            "chain": "Flow",
+            "metadata": {
+                "description": "This NFT for test in testnet Flow\nimage from freePik.com",
+                "external_url": "https://www.freepik.com",
+                "image": "https://ipfs.io/ipfs/bafkreiceoqz7uoy5paddxe4rkz7tfpf5qg72ayndhmvp22jqq5z3eybbya",
+                "name": "Monkey",
+                "background_color": "Hex color witout #",
+                "youtube_url": "https://www.freepik.com",
+                "attributes": [
+                    {
+                        "trait_type": "Cute",
+                        "value": "face"
+                    },
+                    {
+                        "trait_type": "Blue",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "Red",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "eyes",
+                        "value": "2",
+                        "value2": "2"
+                    },
+                    {
+                        "trait_type": "Beauty",
+                        "value": "3",
+                        "value2": "5"
+                    }
+                ],
+                "sensitiveContent": false
+            }
+        },
+        {
+            "idnft": "11",
+            "owner":"shmz",
+            "name": "Painted girl",
+            "collection": "art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId": "16064261000000000",
+            "image": "/Images/nftImg/nft11.JPG",
+            "details": "This NFT for test in testnet Flow image from freePik.com",
+            "price": "2.3Flow",
+            "unit": "Flow",
+            "isFractional":false,
+            "isErc721":true,
+            "chain": "Flow",
+            "metadata": {
+                "description": "This NFT for test in testnet Flow\nimage from freePik.com",
+                "external_url": "https://www.freepik.com",
+                "image": "https://ipfs.io/ipfs/bafkreiceoqz7uoy5paddxe4rkz7tfpf5qg72ayndhmvp22jqq5z3eybbya",
+                "name": "Monkey",
+                "background_color": "Hex color witout #",
+                "youtube_url": "https://www.freepik.com",
+                "attributes": [
+                    {
+                        "trait_type": "Cute",
+                        "value": "face"
+                    },
+                    {
+                        "trait_type": "Blue",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "Red",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "eyes",
+                        "value": "2",
+                        "value2": "2"
+                    },
+                    {
+                        "trait_type": "Beauty",
+                        "value": "3",
+                        "value2": "5"
+                    }
+                ],
+                "sensitiveContent": false
+            }
+        },
+        {
+            "idnft": "12",
+            "owner":"shmz",
+            "name": "Painted girl",
+            "collection": "art",
+            "address": "0x45871ED5F15203C0ce791eFE5f4B5044833aE10e",
+            "tokenId": "16067416000000000",
+            "image": "/Images/nftImg/nft12.JPG",
+            "details": "This NFT for test in testnet Flow image from freePik.com",
+            "price": "2.3Flow",
+            "unit": "Flow",
+            "isFractional":false,
+            "isErc721":true,
+            "chain": "Flow",
+            "metadata": {
+                "description": "This NFT for test in testnet Flow\nimage from freePik.com",
+                "external_url": "https://www.freepik.com",
+                "image": "https://ipfs.io/ipfs/bafkreiceoqz7uoy5paddxe4rkz7tfpf5qg72ayndhmvp22jqq5z3eybbya",
+                "name": "Monkey",
+                "background_color": "Hex color witout #",
+                "youtube_url": "https://www.freepik.com",
+                "attributes": [
+                    {
+                        "trait_type": "Cute",
+                        "value": "face"
+                    },
+                    {
+                        "trait_type": "Blue",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "Red",
+                        "value": "eyes"
+                    },
+                    {
+                        "trait_type": "eyes",
+                        "value": "2",
+                        "value2": "2"
+                    },
+                    {
+                        "trait_type": "Beauty",
+                        "value": "3",
+                        "value2": "5"
+                    }
+                ],
+                "sensitiveContent": false
+            }
+        }
+    ]
+}
